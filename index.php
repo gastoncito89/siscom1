@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        Clase 1
+        Clase 1 de Git
     </body>
 </html>
